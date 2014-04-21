@@ -159,11 +159,7 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(top , );
-background: -o-linear-gradient(top , );
-background: -ms-linear-gradient(top , );
-background: -moz-linear-gradient(top , );
-background: -webkit-linear-gradient(top , );
+	background: rgb(9, 220, 192);
 }
 
 
