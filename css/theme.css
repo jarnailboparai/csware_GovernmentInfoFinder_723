@@ -153,7 +153,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: rgb(9, 220, 192);
+	background: linear-gradient(left , rgb(4, 200, 174) 39% , rgb(13, 202, 177) 89%);
+background: -o-linear-gradient(left , rgb(4, 200, 174) 39% , rgb(13, 202, 177) 89%);
+background: -ms-linear-gradient(left , rgb(4, 200, 174) 39% , rgb(13, 202, 177) 89%);
+background: -moz-linear-gradient(left , rgb(4, 200, 174) 39% , rgb(13, 202, 177) 89%);
+background: -webkit-linear-gradient(left , rgb(4, 200, 174) 39% , rgb(13, 202, 177) 89%);
 }
 
 
